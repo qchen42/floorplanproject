@@ -14,7 +14,6 @@ import java.io.*;
 
 @Service
 public class FloorplanService {
-
     @Autowired
     FloorplanRepository floorplanRepository;
 
