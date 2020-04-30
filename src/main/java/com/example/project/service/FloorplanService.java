@@ -3,7 +3,6 @@ package com.example.project.service;
 
 import com.example.project.model.Floorplan;
 import com.example.project.repositories.FloorplanRepository;
-import com.sun.javafx.binding.StringConstant;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
