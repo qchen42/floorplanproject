@@ -27,8 +27,8 @@ import java.util.List;
 @Service
 public class S3Service {
     public void uploadToS3(File file, String remoteFieldName) {
-        String AWS_ACCESS_KEY = "AKIAI7HSVBIJC4KII6HA";
-        String AWS_SECRET_KEY = "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";
+        String AWS_ACCESS_KEY = "AKIASO5VLP7QSEB6JGET";
+        String AWS_SECRET_KEY = "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";
         String bucketName = "projectfloorplanjasonchen";
         String key = remoteFieldName + ".png";
 
